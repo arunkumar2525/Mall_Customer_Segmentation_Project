@@ -1,1 +1,1 @@
-# Malls-Customer-Segmentation
+# Mall_Customer_Segmentation_Project
